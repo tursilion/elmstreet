@@ -6,7 +6,7 @@ A compiled version by TMOP is also included.
 
 Obviously, this is not a official product and it was something I wrote when I was pretty young.
 
-A nightmare on elm street the game by Mike Ward based on the movie of the same name.
+A Nightmare on Elm Street the game by Mike Ward based on the movie of the same name.
 
 You are Nancy. You are asleep. Freddy is certain that he will get you.
 
